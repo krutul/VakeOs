@@ -101,7 +101,7 @@ Costumize name file in settings tab.
 Link Apps and video
 - Pinguy Builder: https://sourceforge.net/projects/pinguy-os/files/ISO_Builder/
 - Icon : https://github.com/daniruiz/flat-remix
-- picture and logo : https://drive.google.com/open?id=141Ldyp4xleLPpvUC4ifPJijiN-E9ZT8I
+- picture and logo : https://drive.google.com/open?id=10Hrd7_uWuTVpltAxg2Xyb_FNvyHiD4Yd
 - All Applications installing from terminal
 - Video Tutorial: https://youtu.be/O7u_LAmt-cU
 - Iso file remastered: http://www.mediafire.com/file/alozsjkgkum0vfs/vakeos.iso/file
