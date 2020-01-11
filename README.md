@@ -36,7 +36,7 @@ We use arc-theme for our project, for more information you can read on https://g
 	Change theme with gnome-tweak-tool, then choose arc-dark-solid
 
 4. Change icon launcher 
-Download icons from https://drive.google.com/open?id=141Ldyp4xleLPpvUC4ifPJijiN-E9ZT8I
+Download icons from https://drive.google.com/open?id=10Hrd7_uWuTVpltAxg2Xyb_FNvyHiD4Yd
 * cd Downloads/ 
 * sudo mv launcher.png /usr/share/unity/icons 
 * cd /usr/share/unity/icons 
