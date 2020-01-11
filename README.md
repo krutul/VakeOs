@@ -107,6 +107,6 @@ Link Apps and video
 
 our team :
 1. Moh. Khoirul Anwar 18.01.4216
-2. Rizah pahlipi 18.01.4218
-3. Cessaricki Yudi Kurniadi 18.01.4259
+2. Cessaricki Yudi Kurniadi 18.01.4259
+3. Rizah pahlipi 18.01.4218
 4. Alfiana Rismawati W 18.01.4149
