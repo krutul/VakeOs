@@ -104,6 +104,7 @@ Link Apps and video
 - picture and logo : https://drive.google.com/open?id=141Ldyp4xleLPpvUC4ifPJijiN-E9ZT8I
 - All Applications installing from terminal
 - Video Tutorial: https://youtu.be/O7u_LAmt-cU
+- Iso file remastered: http://www.mediafire.com/file/alozsjkgkum0vfs/vakeos.iso/file
 
 our team :
 1. Moh. Khoirul Anwar 18.01.4216
