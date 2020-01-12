@@ -60,6 +60,7 @@ Download icons from https://drive.google.com/open?id=10Hrd7_uWuTVpltAxg2Xyb_FNvy
 * sudo mv plymouth.png ubuntu-logo.png
 * sudo cp ubuntu-logo.png ubuntu-logo16.png
 * sudo nano ubuntu-logo.script
+
 set configuration like :
 window.SetBackgroundTopColor (0.00, 0.00, 0.255)
 window.SetBackgroundBottomColor(0.20, 0.00, 0.00)
